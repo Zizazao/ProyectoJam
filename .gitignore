@@ -21,5 +21,8 @@ $RECYCLE.BIN/
 # =========================
 # Carpetas de AutoSave
 # =========================
-/jam2018/Intermediate/
-/jam2018/Saved/
+
+/jam2018/Binaries
+/jam2018/DerivedDataCache
+/jam2018/Intermediate
+/jam2018/Saved
