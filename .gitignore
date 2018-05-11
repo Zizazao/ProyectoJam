@@ -76,4 +76,4 @@ Jam2018/Plugins/*/Intermediate/*
 # Cache files for the editor to use
 Jam2018/DerivedDataCache/*
 
-Jam2018/Saved/Content/Paco/**
+Jam2018/Content/Paco/*
